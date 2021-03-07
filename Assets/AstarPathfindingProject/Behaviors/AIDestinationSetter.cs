@@ -17,6 +17,7 @@ namespace Pathfinding {
 		/// <summary>The object that the AI should move to</summary>
 		public Transform target;
 		IAstarAI ai;
+		public int playerDist;
 
 		void OnEnable () {
 			ai = GetComponent<IAstarAI>();
@@ -33,7 +34,12 @@ namespace Pathfinding {
 
 		/// <summary>Updates the AI's destination every frame</summary>
 		void Update () {
-			if (target != null && ai != null) ai.destination = target.position;
+			int distance = (int)ai.position.x - (int)target.position.x;
+			if(distance < playerDist)
+            {
+				if (target != null && ai != null) ai.destination = target.position;
+            }
+			
 		}
 	}
 }

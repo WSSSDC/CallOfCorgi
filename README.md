@@ -47,3 +47,4 @@ Due to the lack in game design and development experience across the team we fac
  - Adding Extra Levels
  - Adding more of the planned story to the game
  - Introducing new mechanics and fun gameplay
+ - Graphics Overhaul

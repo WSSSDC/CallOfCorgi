@@ -1,3 +1,4 @@
+
 ## How To Play
 
  - [x] You Can Play The Web Version Using Our Website [Here](https://CallOfCorgi.Tech/) OR
@@ -9,7 +10,7 @@ You can download the game for the platform of your choice from the [releases](ht
 |-|--|
 |Windows| Download (.zip) |
 |macOS  | Download (.zip) |
-|~~Linux~~|~~Download (.zip)~~|
+|Linux|Download (.zip)|
 
 
 

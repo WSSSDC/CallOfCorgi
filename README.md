@@ -8,11 +8,17 @@
 You can download the game for the platform of your choice from the [releases](https://github.com/WSSSDC/CallOfCorgi/releases) tab or from the table below:
 |Platform| Download Link |
 |-|--|
-|Windows| Download (.zip) |
-|macOS  | Download (.zip) |
-|Linux|Download (.zip)|
+|Windows| [Download](https://WSDC.Tech/CallOfCorgi.V1.0-Windows.zip) (.zip) |
+|macOS  | [Download](https://WSDC.Tech/CallOfCorgi.V1.0-macOS.zip) (.zip) |
+|Linux|[Download](https://WSDC.Tech/CallOfCorgi.V1.0-Linux.zip) (.zip)|
+|Web(GL)|[Download](https://WSDC.Tech/CallOfCorgi.V1.0-WebGL.zip) (.zip)|
 
+Notes*:
 
+ - Windows & Web have been tested and are working fine.
+ - Due to macOS's unnessesary security you probably can't simply run the macOS version.
+ - The macOS version does work with both Intel chips and Apple Silicon.
+ - We were too tired to test the linux version. You can come back later.
 
 ## Inspiration
 We decided to built this video game because we were curious about how game design and development works and we chose the corgi theme from.... well CorgiHacks!

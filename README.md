@@ -5,7 +5,7 @@
  - [x] Download The Game For Your Prefered OS
 
 ## Downloads
-You can download the game for the platform of your choice from the [releases](https://github.com/WSSSDC/CallOfCorgi/releases) tab or from the table below:
+You can download the game for the platform of your choice from the ~~[releases]~~(https://github.com/WSSSDC/CallOfCorgi/releases) tab or from the table below:
 |Platform| Download Link |
 |-|--|
 |Windows| [Download](https://WSDC.Tech/dl/CallOfCorgi.V1.0-Windows.zip) (.zip) |

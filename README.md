@@ -16,9 +16,9 @@ You can download the game for the platform of your choice from the ~~[releases](
 Notes*:
 
  - Windows & Web have been tested and are working fine.
- - Due to macOS's unnessesary security you probably can't simply run the macOS version.
+ - Due to macOS's unnecessary security you probably can't simply run the macOS version.
  - The macOS version does work with both Intel chips and Apple Silicon.
- - We were too tired to test the linux version. You can come back later.
+ - We were too tired to test the Linux version. You can come back later.
 
 ## Inspiration
 We decided to built this video game because we were curious about how game design and development works and we chose the corgi theme from.... well CorgiHacks!

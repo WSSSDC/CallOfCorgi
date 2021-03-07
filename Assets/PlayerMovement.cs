@@ -21,7 +21,7 @@ public class PlayerMovement : MonoBehaviour
 	}
 	void Update()
 	{
-		if (Input.GetKey(KeyCode.Escape))
+		if (Input.GetButtonDown("Menu"))
         {
 			SceneManager.LoadScene(0);
 		}
@@ -30,7 +30,7 @@ public class PlayerMovement : MonoBehaviour
 		
 		animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
 
-		if (Input.GetKey(KeyCode.Space))
+		if (Input.GetKey(KeyCode.Space) || Input.GetButton("Jump"))
 		{
 			jump = true;
 		}

@@ -5,6 +5,7 @@ using UnityEngine;
 public class Enemy : MonoBehaviour
 {
     public int health = 100;
+    public bool explode = false;
 
 
     public void TakeDamage(int damage)
@@ -14,6 +15,7 @@ public class Enemy : MonoBehaviour
         if(health <= 0)
         {
             Die();
+            explode = true;
 
         }
     }

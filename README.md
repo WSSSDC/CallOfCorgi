@@ -8,10 +8,10 @@
 You can download the game for the platform of your choice from the [releases](https://github.com/WSSSDC/CallOfCorgi/releases) tab or from the table below:
 |Platform| Download Link |
 |-|--|
-|Windows| [Download](https://WSDC.Tech/CallOfCorgi.V1.0-Windows.zip) (.zip) |
-|macOS  | [Download](https://WSDC.Tech/CallOfCorgi.V1.0-macOS.zip) (.zip) |
-|Linux|[Download](https://WSDC.Tech/CallOfCorgi.V1.0-Linux.zip) (.zip)|
-|Web(GL)|[Download](https://WSDC.Tech/CallOfCorgi.V1.0-WebGL.zip) (.zip)|
+|Windows| [Download](https://WSDC.Tech/dl/CallOfCorgi.V1.0-Windows.zip) (.zip) |
+|macOS  | [Download](https://WSDC.Tech/dl/CallOfCorgi.V1.0-macOS.zip) (.zip) |
+|Linux|[Download](https://WSDC.Tech/dl/CallOfCorgi.V1.0-Linux.zip) (.zip)|
+|Web(GL)|[Download](https://WSDC.Tech/dl/CallOfCorgi.V1.0-WebGL.zip) (.zip)|
 
 Notes*:
 
